@@ -29,4 +29,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login(config.token);
+client.login(process.env.TOKEN);
