@@ -1,1 +1,1 @@
-worker: node Ticket.js
+worker: node bc.js
